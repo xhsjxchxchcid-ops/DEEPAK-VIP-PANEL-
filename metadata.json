@@ -1,0 +1,6 @@
+{
+  "name": "NOVA SIGNAL PANEL AI",
+  "description": "Real-time colour trading results and statistical AI signal overlay floating window for WinGo games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
